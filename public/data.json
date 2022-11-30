@@ -1,0 +1,44 @@
+[
+    {
+        "id": "6387266606124f9c03ffd2d2",
+        "img": "https://randomuser.me/api/portraits/men/15.jpg",
+        "rating": 4,
+        "name": "Branch Rosario",
+        "comment": "More a costly proof-of-concept than a laptop you'd consider buying, Asus' Zenbook 17 Fold OLED is a step forward in PC design that will hopefully lead to future development."
+    },
+    {
+        "id": "63872666b91ff46aa53620d0",
+        "img": "https://randomuser.me/api/portraits/women/17.jpg",
+        "rating": 3,
+        "name": "Rutledge Conway",
+        "comment": "Designed for deep-pocketed enthusiasts, the Asus ROG Zephyrus Duo 16 is an impressive, spendy display of engineering, with its elegant dual-screen setup and top-end performance."
+    },
+    {
+        "id": "63872666d7a5078ca2f16c9d",
+        "img": "https://randomuser.me/api/portraits/women/31.jpg",
+        "rating": 6,
+        "name": "Mercer Wise",
+        "comment": "A first-class gaming experience comes naturally to Asus’ top-shelf ROG Strix Scar 17 gaming laptop, a 17.3-incher packed with an Intel Alder Lake CPU and Nvidia GeForce RTX 3000-series graphics."
+    },
+    {
+        "id": "63872666e16584169af733ff",
+        "img": "https://randomuser.me/api/portraits/men/79.jpg",
+        "rating": 5,
+        "name": "Joann Lee",
+        "comment": "The Asus ROG Flow Z13 gaming tablet is impressive on a design and engineering level, but its high price and niche appeal make it a tough sell versus equally portable premium gaming laptops."
+    },
+    {
+        "id": "6387266677941c65fc2d6683",
+        "img": "https://randomuser.me/api/portraits/women/57.jpg",
+        "rating": 2,
+        "name": "Patterson Berry",
+        "comment": "The Asus ROG Zephyrus G14 laptop offers blazing performance for gaming and everything else, and pairs it with awesome battery life and great portability."
+    },
+    {
+        "id": "638726668c7e85da6ab02a2f",
+        "img": "https://randomuser.me/api/portraits/men/34.jpg",
+        "rating": 3,
+        "name": "Durham Washington",
+        "comment": "The Asus ProArt Studiobook 16 is an impressive laptop made with content creators in mind, from its versatile input dial and 4K OLED screen to its high-flying AMD and Nvidia components."
+    }
+]
