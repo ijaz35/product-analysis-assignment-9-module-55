@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+## Project Live Site Link [Click Here To See The Product Analysis Website](https://sensational-bavarois-bc5aaa.netlify.app/)
+
+## Create header with navigation by react router.
+## Creating six cards with customer reviews.
+## Display three cards in homepage.
+## Answering three questions in blog section.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
