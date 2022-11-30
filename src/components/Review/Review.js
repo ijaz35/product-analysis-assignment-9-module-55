@@ -1,4 +1,6 @@
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faStar } from '@fortawesome/free-solid-svg-icons';
 
 const Review = (props) => {
     const { name, img, comment, rating } = props.review;
@@ -8,7 +10,7 @@ const Review = (props) => {
                 src={img} alt="" />
             <div className='reviewInfo px-4'>
                 <h2 className='text-xl text-orange-900 font-semibold'>Name: {name}</h2>
-                <p className='text-orange-700 my-3'>Rating: {rating} stars</p>
+                <p className='text-orange-700 my-3 text-lg'>Rating: {rating} stars</p>
                 <p className='text-left'>{comment}</p>
             </div>
         </div>

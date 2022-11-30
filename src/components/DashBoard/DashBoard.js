@@ -58,7 +58,7 @@ const DashBoard = () => {
 
     ];
     return (
-        <section className='grid grid-cols-2 gap-14 p-24'>
+        <section className='grid lg:grid-cols-2 gap-14 p-24'>
             <div>
                 <h2 className='text-orange-700 text-center text-semibold text-xl mb-8'>Month Wise Sell</h2>
                 <LineChart width={500} height={300} data={data}>
